@@ -4,7 +4,7 @@ Computer Vision on the Control of Robotic Manipulator - Board game application -
 Paper (in Brazilian Portuguese): (yet to be published)
 
 Main goal:
-  - Create a computer vision based system that guide an arduino-based robotic arm to play Tic-Tac-Toe
+  - Create a computer vision based system that guides an arduino-based robotic arm to play Tic-Tac-Toe
 
 Developed Systems:
   - Computer Vision based on Raspberry Pi 3 Model B+ + Python 3 + OpenCV 3.4
