@@ -1,11 +1,10 @@
 # Computer Vision on the Control of Robotic Manipulator
 Computer Vision on the Control of Robotic Manipulator - Board game application
-
 Capstone Project for Industrial Automation degree by Willian Esperandio
 
 Paper (in Brazilian Portuguese): (yet to be published)
 
-Objetive:
+Main goal:
   - Create a computer vision based system that guide an arduino-based robotic arm to play Tic-Tac-Toe
 
 Developed Systems:
