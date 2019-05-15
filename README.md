@@ -1,5 +1,5 @@
 # Computer Vision on the Control of Robotic Manipulator
-Computer Vision on the Control of Robotic Manipulator - Board game application - Final Paper for Industrial Automation degree by Willian Esperandio
+Computer Vision on the Control of Robotic Manipulator - Board game application - Final Project and Paper for Industrial Automation degree by Willian Esperandio
 
 Paper (in Brazilian Portuguese): (yet to be published)
 
