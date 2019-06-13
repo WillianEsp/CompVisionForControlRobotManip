@@ -13,3 +13,5 @@ Developed Systems:
 
 Contains:
   - All developed codes for the computer vision system, serial communication and robotic arm control
+  
+  License: MIT License
